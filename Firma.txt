@@ -1,0 +1,11 @@
+5,A,B,C,D,E
+121,Ali,Ceviz,Turkey,Isparta,Computer Engineer
+3,4,3,5,1
+201,John,Smith,USA,New Jersey,Doctor
+5,2,1,4,3
+162,Veli,Tuz,Turkey,Ankara,Doctor
+4,3,4,4,2
+203,Zeynep,Demir,Turkey,Antalya,Lawyer
+3,2,4,3,2
+105,Mario,Gomez,Germany,Munich,Football player
+4,1,3,2,1
